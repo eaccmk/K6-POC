@@ -1,8 +1,8 @@
 # K6-POC 🚀
 
-This Project was created to as a [mvp] 🚀 on a load testing tool **k6**
+This Project was created to as a [mvp] on a load testing tool **k6**
 
-`k6` enables to do load testing at unit level as well as motivates towards [Shift left testing].
+`k6` makes you capabale of running a load test (unit level) + motivation to [Shift left testing].
 
 # Parent Project 🎅
 This repository is linked to its **Parent POC Project**, here is the link [Test-Automation-Project-POCs].

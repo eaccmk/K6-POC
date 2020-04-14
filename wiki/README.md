@@ -1,4 +1,4 @@
-# **wiki** _(K6-POC)_  📚
+# wiki (K6-POC)  📚
 
 🦮 This is a mini Wiki for quick help.
 
@@ -8,13 +8,13 @@
 
 - `k6 run --vus 5 --duration 10s cli_script.js`
 
-![CLI - Run by passing Parameter](CLI_k6_run_--vus_5_--duration_10s__cli_script.js.PNG)
+![CLI - Run by passing Parameter](CLI_k6_run_--vus_5_--duration_10s_script_cli.PNG)
 
 ---
 
 - `k6 run script.js`
 
-![JS- Run by passing Parameter inside script](k6_run_script.js.PNG)
+![Quick run (Parameter inside script)](k6_run_script.PNG)
 
 ---
 Let's go back to Previous(main) [README.md]
